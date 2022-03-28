@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-    .titulo-principal
+
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
       h1  Conceptos y generalidades para el sector funerario
-  
+
 
     p.mb-5 El corazón de la labor funeraria se encuentra en el laboratorio de tanatopraxia, debido a que es el lugar de custodia de los seres más importantes para alguien. En este espacio se custodia con respeto y cuidados sanitarios al padre, a la madre, al hijo o al ser más querido de otra persona. Esto también sucede en las salas de transición de los hospitales, las morgues o cualquier otro lugar de paso que permite cuidar de aquellos cuerpos o restos mortales.
 
@@ -20,7 +20,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Por lo anterior, los profesionales que están en funciones de manipulación de biológicos en vía de descomposición deben tener protocolos para su salubridad y la de su comunidad. Es decir, este proceso es importante porque disminuye accidentes, enfermedades o perjuicios laborales y sociales.
 
-    .bloque-texto-a.color-primario.p-4.p-md-4.mb-5 
+    .bloque-texto-a.color-primario.p-4.p-md-4.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-9
           .bloque-texto-a__texto
@@ -28,8 +28,8 @@
         .col-lg-3.mb-4.mb-lg-0.align-self-center
           figure
             img.mx-auto(src='@/assets/curso/tema1/img2.svg', alt='imagen ambiental',style='width:255px;')
-          
-              
+
+
 
 
 

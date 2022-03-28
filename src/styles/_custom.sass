@@ -1,0 +1,193 @@
+.imagen-titulo:before, .imagen-titulo--der:before, .imagen-titulo--izq:before
+  width: 98%
+  height: 98%
+.imagen-titulo.color-secundario .imagen-titulo__titulo, .color-secundario.imagen-titulo--der .imagen-titulo__titulo, .color-secundario.imagen-titulo--izq .imagen-titulo__titulo
+  background-color: $color-sistema-texto
+
+.imagen-titulo.color-secundario:before, .color-secundario.imagen-titulo--der:before, .color-secundario.imagen-titulo--izq:before
+  background-color: $color-sistema-texto
+
+.bloque-texto-a.color-primario:before 
+  background-color: #EEEEF2
+
+.bloque-texto-a.color-primario 
+    background-color: #A6DAD7
+
+.bloque-texto-a__texto
+  padding: 30px
+.bloque-texto-a
+  &.reverse
+    &:before
+      left: 0
+      right: 50%
+
+.bloque-texto-a:before 
+  left: 58%
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #ffffff
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+  background-color: #1D272D
+
+.linea-tiempo-b__icon img
+  width: 120px
+
+.contenedorLink
+  top: 2px
+
+
+.tarjeta.color-secundario
+  background-color: #EEEEF2
+
+.tarjeta.color-primario
+  background-color: #A6DAD7
+
+.tarjeta--fondo
+  background-image: url(../assets/curso/fondo-banner-principal.png)
+  background-size: auto
+  background-repeat: no-repeat
+.custom-img
+  width: 400px
+.custom-img2
+  width: 150px
+
+.cajon-b.abajo-derecha:before 
+  left: 26%
+
+.cajon-b:before 
+  right: 25%
+.slyder-a__bullets 
+  bottom: -10px
+.slyder-a__btn--atrs
+  left: -26px
+
+.slyder-a__btn--sigt 
+  right: -24px
+
+.bg-color1
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema2/fondo-red.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+
+.fa-biohazard
+  color: $color-acento-contenido
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
+  padding: 0px 28px !important
+
+.bg-color2
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #DB8804
+
+.bg-color3
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #D93328
+
+
+.bg-tarjeta
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema4/fondo-green.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+
+
+// Tarjeta Hover ////////////////////
+.tarjeta-cyan
+  background: linear-gradient(180deg,#f5f5f5,#ecf6fc)
+  .tarjetaContent
+    .tarjetaImg
+      border-bottom: 7px solid #008F85
+    .tarjetaTxt
+      border-top: 7px solid #008F85
+
+.tarjeta-purpura
+  background: linear-gradient(180deg,#f5f5f5,#ecf6fc)
+  .tarjetaContent
+    .tarjetaImg
+      border-bottom: 7px solid #D93328
+    .tarjetaTxt
+      border-top: 7px solid #D93328
+
+$tarjeta-dimension: 270px
+.tarjeta-container
+  position: relative
+  overflow: hidden
+  width: $tarjeta-dimension
+  height: $tarjeta-dimension
+  border-radius: 0    
+  
+  .tarjetaContent
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease
+    .tarjetaImg, .tarjetaTxt 
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      width: $tarjeta-dimension
+      height: $tarjeta-dimension
+      padding: 2rem
+    .tarjetaImg     
+    .tarjetaTxt
+      text-align: center
+
+
+  &:hover
+    .tarjetaContent
+      top: -($tarjeta-dimension)
+
+/*.titulo-segundo:after 
+  border-left: solid 50px #00978E*/
+
+.linea-custom
+  border-right: #DB8804 solid 3px
+
+
+@media screen and ( min-width: 1196px)  
+  .bloque-texto-a__texto
+    padding-right: 50px
+  .linea-tiempo-b__icon img
+    width: 166px
+@media screen and ( min-width: 1400px)  
+  .contenedorLink
+    //display: flex
+    position: absolute
+    top: 66%
+    left: 60%
+@media screen and ( max-width: 988px)  
+  .bloque-texto-a__texto
+    margin-bottom: 40px
+    margin-top: 15px
+  .custom-img
+    width: 290px
+  .custom-img2
+    width: 90px
+  .bg-color2,.bg-color3
+    width: 80%
+@media screen and ( max-width: 1388px)  
+  .contenedorLink
+    justify-content: center
+@media screen and ( max-width: 767px)  
+  .linea-custom
+    border-right: 0
+    margin-bottom: 8px
+  .linea-custom:after
+    //border-bottom: #DB8804 solid 30px
+    content: ""
+    display: inline-flex
+    text-align: center
+    height: 3px
+    width: 80%
+    background-color: #DB8804
+    margin-bottom: 10px

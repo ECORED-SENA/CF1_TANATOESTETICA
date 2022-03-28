@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Introducción a la tanatoestética',
+    descripcionCurso:
+      'El presente componente de formación tiene como intención, realizar el abordaje de algunos conceptos y generalidades para el sector funerario, la comprensión de la muerte y la ética del tanatopractor en el proceso de tanatoestética. Elementos que están orientados al acondicionamiento del cuerpo, para borrar en él los signos de la muerte y crear un cuadro memorial para los familiares y su recuerdo en la posteridad.',
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [
@@ -22,39 +23,46 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Conceptos y generalidades para el sector funerario',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Normas de bioseguridad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Microbiología',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Desinfección',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Clasificación de los desinfectantes',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Métodos y técnicas de desinfección instrumental',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-      },
       {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
@@ -88,34 +96,102 @@ export default {
       },
     ],
   },
-  complementario: [
+  referencias: [
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      link: 'https://www.google.com/',
+      referencia:
+        'ICONTEC. (2017). Servicios funerarios. Requisitos (NTC 5840).',
+      link:
+        'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=AF60935720F13C6466C0297B7F80FF16&Req=',
     },
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      descarga: '/downloads/prueba.pdf',
+      referencia:
+        'ICONTEC. (2017). Servicios funerarios. Términos y definiciones (NTC 6212).',
+      link:
+        'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=6002A697B3F03F6282B108144F0748A3&Req=',
+    },
+    {
+      referencia:
+        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Enero 24 de 1979. DO. Nº 35.308.',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
+    },
+    {
+      referencia:
+        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Julio 11 de 2012.<br>',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf',
+    },
+    {
+      referencia:
+        'Díaz, G. (2018). Guía para las empresas con exposición de riesgo biológico. Ministerio del Trabajo.<br>',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/59676/GUIA+RIESGO+BIOL%C3%93GICO+EMPRESAS.pdf/d37bb562-af8e-a51b-106e-60c7784f645b',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (s.f.). Guía de limpieza y desinfección.<br>',
+      /*link:
+        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/Talento_humano/Circular-015/GUIA_DE_LIMPIEZA_Y_DESINFECCION.pdf',
+    */
+    },
+    {
+      referencia:
+        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020a, mayo 3). ¿Cómo lavarse las manos de una forma segura? [Video]. YouTube.',
+      link: 'https://youtu.be/N5iWzjNWh8A',
+    },
+    {
+      referencia:
+        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020b, abril 21). Recomendaciones, descarte de elementos y desinfección de equipo [Video]. YouTube',
+      link: 'https://youtu.be/fUmd0RTsvbI',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Bioseguridad',
+      significado:
+        'Según ICONTEC (2017), es un conjunto de medidas preventivas que tienen como objetivo minimizar y controlar factores de riesgo que puedan afectar la seguridad, la salud humana y el ambiente.',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: 'Desinfección ',
+      significado:
+        'Es la eliminación de microorganismos patógenos que se encuentran en objetos o materiales y que no es posible percibirlos a simple vista.',
+    },
+    {
+      termino: 'Limpieza',
+      significado:
+        'Es la remoción de objetos o material que es percibido visualmente. La limpieza se logra con acciones manuales, como barrer y trapear, o con productos básicos como el agua y el jabón.',
+    },
+    {
+      termino: 'Servicios funerarios',
+      significado:
+        'Según ICONTEC (2017), es un conjunto de actividades organizadas para la realización de rituales fúnebres. Pueden constar de servicios básicos (tales como preparación del cadáver, restos humanos, restos óseos o cenizas; obtención de licencias de inhumación o cremación; traslados, suministros de carroza fúnebre para el servicio; ataúd, urna, sala de velación y trámites civiles y eclesiásticos), servicios complementarios (tales como arreglos florales, avisos de murales y prensa, transporte de acompañantes, acompañamientos musicales) y destino final (inhumación o cremación).',
     },
   ],
-  referencias: [
+  complementario: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+      texto:
+        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Enero 24 de 1979. DO. Nº 35.308.',
+      tipo: 'Pagina web',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
+    },
+    {
+      texto:
+        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Julio 11 de 2012.',
+      tipo: 'Pdf',
+      descarga: '/downloads/Ley-1562-de-2012.pdf',
+    },
+    {
+      texto:
+        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020, 21 abril). Equipo de protección personal [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/iDnhA8nPFsM',
+    },
+    {
+      texto:
+        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020b, abril 21). Recomendaciones, descarte de elementos y desinfección de equipo [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/fUmd0RTsvbI',
     },
   ],
   creditos: {
@@ -133,6 +209,43 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Luz María Uribe Lotero',
+        cargo: 'Experta Temática',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Lina María Restrepo Zapata',
+        cargo: 'Experta Temática',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – Líder Desarrollo Curricular Servicios Personales',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana María Bustamante Cataño',
+        cargo: 'Profesional de Diseño y Producción Curricular',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
     ],
     desarrolloProducto: [
       {
@@ -142,25 +255,77 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: ['Jesus Antonio Vecino Valero'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Arnulfo Beltrán Mojica',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Adriana Marcela Suárez Eljure',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Andres Ayala Angarita',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -168,19 +333,9 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
   },

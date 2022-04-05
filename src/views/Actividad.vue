@@ -7,20 +7,19 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.tarjeta--azul.h-100.d-flex.align-items-center
           figure
-            img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 ¿Sabes cuál es el orden correcto? 
-        p.mb-4 Identificar los conocimientos desarrollados durante la experiencia de aprendizaje.
+          h2 ¿Qué tanto sabe sobre…?
+        p.mb-4 Identificar los conocimientos apropiados por el aprendiz en la experiencia de aprendizaje desarrollada. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Ordena los elementos
+              p.fw-bold.mb-0 Verdadero/Falso
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
-
 
 </template>
 
@@ -30,4 +29,4 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass"></style>

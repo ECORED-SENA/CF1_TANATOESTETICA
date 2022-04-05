@@ -30,36 +30,22 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Normas de bioseguridad',
+        titulo: 'Tanatoestética: historia',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Microbiología',
+        titulo: 'Ética en el sector funerario',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Desinfección',
+        titulo: 'La muerte en la tanatopraxia',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Clasificación de los desinfectantes',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Métodos y técnicas de desinfección instrumental',
-            hash: 't_4_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -99,99 +85,93 @@ export default {
   referencias: [
     {
       referencia:
-        'ICONTEC. (2017). Servicios funerarios. Requisitos (NTC 5840).',
+        'Bonete, E. (2002). Ética de la muerte: de la Bio-ética a la Tánato-ética. Daimon Revista Internacional de Filosofía, (25), p. 57–74.',
+      link: 'https://revistas.um.es/daimon/article/view/14801',
+    },
+    {
+      referencia:
+        'Escobar. G. (2000). Ética. Introducción a su problemática y su historia. McGraw-Hill. ',
+      link:
+        'https://www.academia.edu/30060589/%C3%89tica_Introducci%C3%B3n_a_su_problem%C3%A1tica_y_su_historia_ESCOBAR_1_',
+    },
+    {
+      referencia: 'Equipo editorial, E. (2021). Ritual. Obtenido de ',
+      link: 'https://concepto.de/ritual/',
+    },
+    {
+      referencia:
+        'Illinois Institute of Technology. (s.f.). Language of professional ethics. Illinois Institute of Technology.',
+      link: 'http://ethics.iit.edu/teaching/language-professional-ethics',
+    },
+    {
+      referencia:
+        'ICONTEC. (2017). Norma Técnica Colombiana NTC 5840. ICONTEC.',
       link:
         'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=AF60935720F13C6466C0297B7F80FF16&Req=',
     },
     {
       referencia:
-        'ICONTEC. (2017). Servicios funerarios. Términos y definiciones (NTC 6212).',
-      link:
-        'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=6002A697B3F03F6282B108144F0748A3&Req=',
-    },
-    {
-      referencia:
-        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Enero 24 de 1979. DO. Nº 35.308.',
-      link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
-    },
-    {
-      referencia:
-        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Julio 11 de 2012.<br>',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf',
-    },
-    {
-      referencia:
-        'Díaz, G. (2018). Guía para las empresas con exposición de riesgo biológico. Ministerio del Trabajo.<br>',
-      link:
-        'https://www.mintrabajo.gov.co/documents/20147/59676/GUIA+RIESGO+BIOL%C3%93GICO+EMPRESAS.pdf/d37bb562-af8e-a51b-106e-60c7784f645b',
-    },
-    {
-      referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (s.f.). Guía de limpieza y desinfección.<br>',
+        'Lichtenberg, J. (1996). What are codes of ethics for? Codes of Ethics and the Professions. Margaret Coady and Sidney Bloch, eds. Melbourne University Press.',
       /*link:
         'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/Talento_humano/Circular-015/GUIA_DE_LIMPIEZA_Y_DESINFECCION.pdf',
     */
     },
     {
       referencia:
-        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020a, mayo 3). ¿Cómo lavarse las manos de una forma segura? [Video]. YouTube.',
-      link: 'https://youtu.be/N5iWzjNWh8A',
+        'Mayer, R. G. y Johnson, E. (2012). Embalsamamiento: Historia, teoría y práctica. (quinta edición). Mc Graw Hill.',
     },
     {
       referencia:
-        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020b, abril 21). Recomendaciones, descarte de elementos y desinfección de equipo [Video]. YouTube',
-      link: 'https://youtu.be/fUmd0RTsvbI',
+        'Mego, G. (2016). Tanatopraxia y tanatoestética. Todo un arte de conservar y embellecer al cadáver. Morfolia – Vol. 8 - No. 2 – 2016.',
+      link:
+        'https://repositorio.unal.edu.co/bitstream/handle/unal/67117/60112-305939-1-PB.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Norman, R. (1998). The moral philosophers. Oxford University Press.',
+    },
+    {
+      referencia:
+        'Ortiz, G. (2016). Sobre la distinción entre ética y moral. Isonomía. Revista de Teoría y Filosofía del Derecho, 45, p. 113-139.',
+      link: 'https://www.redalyc.org/pdf/3636/363648284005.pdf',
+    },
+    {
+      referencia:
+        'Panasef Asociación Nacional de Servicios Funerarios. (2020). Los compromisos éticos del sector funerario [video]. YouTube.',
+      link: 'https://youtu.be/WD94qPyCu0E',
+    },
+    {
+      referencia: 'Significados. (s.f.).  Significado: Ritual. Obtenido de ',
+      link: 'https://www.significados.com/ritual/',
+    },
+    {
+      referencia:
+        'Subercaseaux Instituto de Banca y Finanzas. (s.f.). Unidad I: la moral, la ética profesional y los valores de la empresa.',
+      link: 'http://sedevirtual.ieb.cl/DG/PDF/ERS01e/version_pdf_unidad1.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Bioseguridad',
+      termino: 'Respeto',
       significado:
-        'Según ICONTEC (2017), es un conjunto de medidas preventivas que tienen como objetivo minimizar y controlar factores de riesgo que puedan afectar la seguridad, la salud humana y el ambiente.',
+        'Consideración acompañada de cierta sumisión, con que se trata a una persona o a una cosa por alguna cualidad, situación o circunstancia que la determina y que lleva a acatar lo que dice o establece o a no causar ofensa o perjuicio.',
     },
     {
-      termino: 'Desinfección ',
+      termino: 'Servicios funerarios ',
       significado:
-        'Es la eliminación de microorganismos patógenos que se encuentran en objetos o materiales y que no es posible percibirlos a simple vista.',
+        'Conjunto de actividades organizadas para la realización de rituales fúnebres.  Pueden constar de servicios básicos tales como la preparación del cadáver, restos humanos, restos óseos o cenizas; obtención de licencias de inhumación o cremación; traslados, suministro de carroza fúnebre para el servicio; ataúd, urna, sala de velación, trámites civiles y eclesiásticos (Norma Técnica Colombiana NTC 5840, 2017).',
     },
     {
-      termino: 'Limpieza',
+      termino: 'Valores',
       significado:
-        'Es la remoción de objetos o material que es percibido visualmente. La limpieza se logra con acciones manuales, como barrer y trapear, o con productos básicos como el agua y el jabón.',
-    },
-    {
-      termino: 'Servicios funerarios',
-      significado:
-        'Según ICONTEC (2017), es un conjunto de actividades organizadas para la realización de rituales fúnebres. Pueden constar de servicios básicos (tales como preparación del cadáver, restos humanos, restos óseos o cenizas; obtención de licencias de inhumación o cremación; traslados, suministros de carroza fúnebre para el servicio; ataúd, urna, sala de velación y trámites civiles y eclesiásticos), servicios complementarios (tales como arreglos florales, avisos de murales y prensa, transporte de acompañantes, acompañamientos musicales) y destino final (inhumación o cremación).',
+        'Cualidad o conjunto de cualidades por las que una persona o cosa es apreciada o bien considerada.',
     },
   ],
   complementario: [
     {
-      texto:
-        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Enero 24 de 1979. DO. Nº 35.308.',
-      tipo: 'Pagina web',
-      link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
-    },
-    {
-      texto:
-        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Julio 11 de 2012.',
-      tipo: 'Pdf',
-      descarga: '/downloads/Ley-1562-de-2012.pdf',
-    },
-    {
-      texto:
-        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020, 21 abril). Equipo de protección personal [Video]. YouTube.',
+      texto: 'Ética en el sector funerario',
       tipo: 'Video',
-      link: 'https://youtu.be/iDnhA8nPFsM',
-    },
-    {
-      texto:
-        'SENA [Red Producción de Contenidos Grupo Gestión Curricular]. (2020b, abril 21). Recomendaciones, descarte de elementos y desinfección de equipo [Video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://youtu.be/fUmd0RTsvbI',
+      link: 'https://youtu.be/WD94qPyCu0E',
     },
   ],
   creditos: {
@@ -220,6 +200,11 @@ export default {
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
+        nombre: 'John Alejandro Carmona Escobar.',
+        cargo: 'Experto Temática',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
           'Instructora (EPC) – Líder Desarrollo Curricular Servicios Personales',
@@ -232,19 +217,24 @@ export default {
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
       },
       {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
-        nombre: 'Darío González',
-        cargo: 'Corrección de estilo',
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
         centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -255,13 +245,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        nombre: 'Eulises Orduz',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: ['Jesus Antonio Vecino Valero'],
-        cargo: 'Diseño web',
+        nombre: 'Lizeth Karina Manchego',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -283,49 +274,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Arnulfo Beltrán Mojica',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Daniela Muñoz Bedoya',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Adriana Marcela Suárez Eljure',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Jessica Moreno Realpe',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
         nombre: 'Lina Marcela Pérez Manchego',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'John Andres Ayala Angarita',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Andrés Mauricio Santaella',
-        cargo: 'Soporte front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Veimar Celis Melendez',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

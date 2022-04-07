@@ -15,14 +15,14 @@
           img(src='@/assets/curso/tema4/f1.png' alt='La muerte como experiencia')
       .col-lg-7
         p Desde hace
-          b miles de años el hombre ha realizado rituales para darle explicación a los fenómenos que ocurren en la cotidianidad de la vida como nacer, crecer y morir.
+          b  miles de años el hombre ha realizado rituales para darle explicación a los fenómenos que ocurren en la cotidianidad de la vida como nacer, crecer y morir.
           | Siendo de estos,
           b.cp la muerte una experiencia rodeada de tabú y explicaciones en todas las religiones, culturas y épocas del ser humano.
         p Históricamente se tiene evidencia que incluso
-          b desde la época de los neandertales, aproximadamente 400.000 años A.C,
+          b  desde la época de los neandertales, aproximadamente 400.000 años A.C,
           | se
-          b.cp realizaban prácticas con los muertos, empezando por sus cuidados hasta su despedida.
-          b El tratamiento que se le realiza a los cuerpos muertos ha marcado grandes momentos de la humanidad, en todos los tiempos y en todas las culturas se han realizado procesos para preservar el cuerpo y los vivos han realizado rituales de despedida.
+          b.cp  realizaban prácticas con los muertos, empezando por sus cuidados hasta su despedida.
+          b  El tratamiento que se le realiza a los cuerpos muertos ha marcado grandes momentos de la humanidad, en todos los tiempos y en todas las culturas se han realizado procesos para preservar el cuerpo y los vivos han realizado rituales de despedida.
 
     .row.align-items-center.mb-5
       .col-lg-7.order-lg-first.order-last
@@ -34,9 +34,9 @@
           img(src='@/assets/curso/tema4/f2.png' alt='La muerte como experiencia').mb-4
 
     p.mb-5 A continuación, se exponen algunas
-      b descripciones de la muerte en el
-      b.cac contexto biológico.
-      | Se sugiere leer con atención las características con la intención de que establezca diferencias y similitudes entre estos conceptos.
+      b  descripciones de la muerte en el
+      b.cac  contexto biológico.
+      |  Se sugiere leer con atención las características con la intención de que establezca diferencias y similitudes entre estos conceptos.
 
     .row.mb-5
       .col-lg-5
@@ -113,9 +113,9 @@
 
 
     p.mb-5 Como ya se ha mencionado
-      b las personas experimentan la muerte de un ser querido a través de un sentimiento de pérdida y duelo, aunque las expresiones de estos sentimientos varían según la cultura.
-      b(style="color: #008F85;") La cultura es el conjunto de bienes materiales y espirituales de un grupo social transmitido de generación en generación a fin de orientar las prácticas individuales y colectivas.
-      b-none Incluye lengua, procesos, modos de vida, costumbres, tradiciones, hábitos, valores, patrones, herramientas y conocimiento.
+      b  las personas experimentan la muerte de un ser querido a través de un sentimiento de pérdida y duelo, aunque las expresiones de estos sentimientos varían según la cultura.
+      b(style="color: #008F85;")  La cultura es el conjunto de bienes materiales y espirituales de un grupo social transmitido de generación en generación a fin de orientar las prácticas individuales y colectivas.
+      b-none  Incluye lengua, procesos, modos de vida, costumbres, tradiciones, hábitos, valores, patrones, herramientas y conocimiento.
 
     .row.justify-content-center.mb-5
       .col-7.col-lg-5.mb-4.mb-lg-0.align-self-center
@@ -124,16 +124,16 @@
 
       .col-lg-7
         p.mb-0 Por ello decimos que
-          b cada cultura tiene sus propias creencias y rituales que influencian la expresión del duelo.
-          b-none Al realizar estas prácticas se aporta estabilidad y seguridad a los deudos. Pero, entonces
-          b(style="color: #D93328;") ¿qué es una creencia?
-          b La creencia es una verdad subjetiva, una convicción, algo que el sujeto considera cierto. Patricio, (2017).
+          b  cada cultura tiene sus propias creencias y rituales que influencian la expresión del duelo.
+          b-none  Al realizar estas prácticas se aporta estabilidad y seguridad a los deudos. Pero, entonces
+          b(style="color: #D93328;")  ¿qué es una creencia?
+          b  La creencia es una verdad subjetiva, una convicción, algo que el sujeto considera cierto. Patricio, (2017).
           b-none Y en cada cultura estas creencias describen el funcionamiento del mundo y el papel de los seres humanos dentro de ese mundo, por ello cada cultura aborda la muerte con un significado diferente, normalmente este creer y pensar está dictado por la creencia religiosa de la sociedad en la que se vive y así ayuda a las personas a comprender la muerte y afrontarla, en algunas culturas las personas creen que el espíritu del fallecido tiene influencia directa sobre los familiares vivos.
           b(style="color: #008F85;")  En otras creen que hay vida después de la muerte y su ser amado los está cuidando y como en el caso del budismo consideran la muerte como una liberación que permite evolucionar a un ser mejor.
 
 
     p.mb-4 A continuación, encontrarás diferentes definiciones sobre
-      b ¿qué es un ritual?
+      b  ¿qué es un ritual?
 
     .row.justify-content-center.mb-5
       .col-lg-10

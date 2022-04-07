@@ -13,7 +13,7 @@
 
     figure.mb-5
       .video
-        <iframe width="699" height="393" src="https://www.youtube.com/embed/_GwPIsxbzns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="699" height="393" src="https://www.youtube.com/embed/I38rQyT4nrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </template>

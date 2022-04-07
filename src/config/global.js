@@ -157,7 +157,7 @@ export default {
         'Consideración acompañada de cierta sumisión, con que se trata a una persona o a una cosa por alguna cualidad, situación o circunstancia que la determina y que lleva a acatar lo que dice o establece o a no causar ofensa o perjuicio.',
     },
     {
-      termino: 'Servicios funerarios ',
+      termino: 'Servicios funerarios',
       significado:
         'Conjunto de actividades organizadas para la realización de rituales fúnebres.  Pueden constar de servicios básicos tales como la preparación del cadáver, restos humanos, restos óseos o cenizas; obtención de licencias de inhumación o cremación; traslados, suministro de carroza fúnebre para el servicio; ataúd, urna, sala de velación, trámites civiles y eclesiásticos (Norma Técnica Colombiana NTC 5840, 2017).',
     },
@@ -220,6 +220,11 @@ export default {
         cargo: 'Diseñadora instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Maryuri Agudelo Franco',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',

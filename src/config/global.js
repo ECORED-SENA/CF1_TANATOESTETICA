@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Introducción a la tanatoestética',
     descripcionCurso:
-      'El presente componente de formación tiene como intención, realizar el abordaje de algunos conceptos y generalidades para el sector funerario, la comprensión de la muerte y la ética del tanatopractor en el proceso de tanatoestética. Elementos que están orientados al acondicionamiento del cuerpo, para borrar en él los signos de la muerte y crear un cuadro memorial para los familiares y su recuerdo en la posteridad.',
+      'El presente componente formativo tiene como intención, realizar el abordaje de algunos conceptos y generalidades para el sector funerario, la comprensión de la muerte y la ética del tanatopractor en el proceso de tanatoestética. Elementos que están orientados al acondicionamiento del cuerpo, para borrar en él los signos de la muerte y crear un cuadro memorial para los familiares y su recuerdo en la posteridad.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -102,13 +102,13 @@ export default {
       referencia:
         'Illinois Institute of Technology. (s.f.). Language of professional ethics. Illinois Institute of Technology.',
       link: 'http://ethics.iit.edu/teaching/language-professional-ethics',
-    },
+    } /* 
     {
       referencia:
         'ICONTEC. (2017). Norma Técnica Colombiana NTC 5840. ICONTEC.',
       link:
         'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=AF60935720F13C6466C0297B7F80FF16&Req=',
-    },
+    }, */,
     {
       referencia:
         'Lichtenberg, J. (1996). What are codes of ethics for? Codes of Ethics and the Professions. Margaret Coady and Sidney Bloch, eds. Melbourne University Press.',
@@ -137,7 +137,7 @@ export default {
     },
     {
       referencia:
-        'Panasef Asociación Nacional de Servicios Funerarios. (2020). Los compromisos éticos del sector funerario [video]. YouTube.',
+        'Panasef Asociación Nacional de Servicios Funerarios. (2020). Charla - Los compromisos éticos del sector funerario [video]. YouTube.',
       link: 'https://youtu.be/WD94qPyCu0E',
     },
     {
@@ -169,7 +169,15 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Ética en el sector funerario',
+      texto:
+        'Legiscomex. (s.f.). Tipos de carga, regularizado. <br> <small>Apreciado Aprendiz, para la utilización del recurso de Legiscomex que se encuentra en el Sistema de Bibliotecas, es necesario el ingreso con sus datos de acceso (número de identificación en los campos de usuario y contraseña). Es importante que, ingrese primero a la biblioteca y posteriormente acceda con el enlace del recurso de Tipos de Carga, para que el sistema lo direccione al espacio correcto. </small>',
+      tipo: 'Página web',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=https://www.legiscomex.com/Documentos/TIPOSDECARGA',
+    },
+    {
+      texto:
+        'Panasef Asociación Nacional Servicios Funerarios (2020), Charla - Los compromisos éticos del sector funerario.',
       tipo: 'Video',
       link: 'https://youtu.be/WD94qPyCu0E',
     },

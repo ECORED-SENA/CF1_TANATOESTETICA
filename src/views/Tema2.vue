@@ -60,7 +60,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-10
             h3(align='left') En New York
-            p(align='left') En la historia se ha reconocido a Joel E. Crandall, de Nueva York, por ser el primer embalsamador en escribir en 1912 un artículo sobre el cuidado cosmético postmortem. Este autor mencionó sobre la semicirugía al explicarle como la generación y la creación de miembros de fallecidos destrozados una descomposición, enfermedad o traumatismos. Su finalidad era presentarlos con una imagen natural. Crandall solicitaba para esta actividad una fotografía reciente de la persona fallecida, fijación de los tejidos del cadáver e implantes. Estos requerimientos se mantienen en la tanatoestética actual.
+            p(align='left') En la historia se ha reconocido a Joel E. Crandall, de Nueva York, por ser el primer embalsamador en escribir en 1912 un artículo sobre el cuidado cosmético postmortem. Este autor mencionó sobre la semicirugía al explicar como la generación y la creación de miembros de fallecidos destrozados se generaba una descomposición, enfermedad o traumatismos. Su finalidad era presentar sus estudios con una imagen natural. Crandall solicitaba para esta actividad una fotografía reciente de la persona fallecida, para la fijación de los tejidos del cadáver e implantes. Estos requerimientos se mantienen en la tanatoestética actual.
           .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/tema2/f5.svg' alt='Icono faraón')
@@ -70,11 +70,11 @@
               img(src='@/assets/curso/tema2/f6.svg' alt='Icono faraón')
           .col-lg-10
             h3(align='left') Exponentes
-            p(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactadas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
+            p(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactadas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados como la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
         .row.align-items-center.justify-content-center
           .col-lg-10
             h3(align='left') En la actualidad
-            p(align='left') En la actualidad, la tanatoestética ha sido incididas por prácticas artísticas tales como el manejo de ceras y técnicas de maquillaje. Cabe mencionar, que la tanatoestética no solo se limita a los procedimientos que se realizan en el rostro, cuello y manos. Esta abarca reconstrucciones dérmicas, de miembros o estructuras óseas. Es decir, una tanatoestética mixta.
+            p(align='left') En la actualidad, la tanatoestética ha sido incidida por prácticas artísticas tales como el manejo de ceras y técnicas de maquillaje. Cabe mencionar, que la tanatoestética no solo se limita a los procedimientos que se realizan en el rostro, cuello y manos. Esta abarca reconstrucciones dérmicas, de miembros o estructuras óseas. Es decir, una tanatoestética mixta.
           .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/tema2/f7.svg' alt='Icono faraón')
@@ -84,7 +84,7 @@
         img.mx-auto(src='@/assets/curso/tema2/f8.svg' alt='AvatarTop' style='width:155px;')
       .tarjeta.tarjeta-white--color-red
         .p-4.ps-0.py-5
-          p.mb-0 <b>En conclusión, </b><em><b><span class="cp">la estética del cadáver</span></b> resulta ser un cuadro memorial del último aspecto físico o presentación que las personas allegadas conservaran del fallecido.</em> <b><span class="cp">La tanatoestética</span></b> es el tercer paso del <b>proceso de embalsamamiento porque le han antecedido la preservación química y desinfección.</b> El éxito de este paso está determinado por las adecuadas <b><span class="cp">técnicas de eliminación de microorganismos y químicas</span> que aceleran la descomposición del cuerpo para así cumplir el traslado final.</b>
+          p.mb-0 <b>En conclusión, </b><em><b><span class="cp">la estética del cadáver</span></b> resulta ser un cuadro memorial del último aspecto físico o presentación que las personas allegadas conservarán del fallecido.</em> <b><span class="cp">La tanatoestética</span></b> es el tercer paso del <b>proceso de embalsamamiento porque le han antecedido la preservación química y desinfección.</b> El éxito de este paso está determinado por las adecuadas <b><span class="cp">técnicas de eliminación de microorganismos y químicas</span> que aceleran la descomposición del cuerpo para así cumplir el traslado final.</b>
 
 </template>
 

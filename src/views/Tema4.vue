@@ -15,11 +15,11 @@
           img(src='@/assets/curso/tema4/f1.png' alt='La muerte como experiencia')
       .col-lg-7
         p Desde hace
-          b  miles de años el hombre ha realizado rituales para darle explicación a los fenómenos que ocurren en la cotidianidad de la vida como nacer, crecer y morir.
-          | Siendo de estos,
+          b  miles de años el hombre ha realizado rituales para darle explicación a los fenómenos que ocurren en la cotidianidad de la vida como nacer, crecer y morir. 
+          | Siendo de estos, 
           b.cp la muerte una experiencia rodeada de tabú y explicaciones en todas las religiones, culturas y épocas del ser humano.
         p Históricamente se tiene evidencia que incluso
-          b  desde la época de los neandertales, aproximadamente 400.000 años A.C,
+          b  desde la época de los neandertales, aproximadamente 400.000 años A.C, 
           | se
           b.cp  realizaban prácticas con los muertos, empezando por sus cuidados hasta su despedida.
           b  El tratamiento que se le realiza a los cuerpos muertos ha marcado grandes momentos de la humanidad, en todos los tiempos y en todas las culturas se han realizado procesos para preservar el cuerpo y los vivos han realizado rituales de despedida.
@@ -28,7 +28,7 @@
       .col-lg-7.order-lg-first.order-last
         p <b>En la actualidad se siguen realizando procesos para detener temporalmente la descomposición natural del cuerpo</b>, en la que sus familiares o allegados puedan hacer un ritual de despedida. Toda esta historia y la evolución que ha tenido hasta en el momento actual y <b><span class="cp">en Colombia devela la necesidad de profesionalizar el sector funerario para conservar los rituales funerarios</span></b> y el trato digno en la muerte, ayudando así al trámite del duelo de las personas que quedan.
         .cajon.color-secundario.p-4
-          p.mb-0 Etimológicamente hablando <b>la muerte viene de la raíz latina <span class='cac'><em>mors - mortis</em></span> que significa fin o ausencia de vida.</b>  La muerte entonces <b><span class="cp">es la finalización de todas las funciones vitales del organismo como la circulación, la respiración, el sistema nervioso central y lo cognitivo,</span></b> es decir, que un fallecimiento de un cuerpo humano es un proceso que implica cambios químicos y físicos involucrados en el fin de una vida orgánica. <b>La muerte es la interrupción definitiva de las funciones vitales y la relación de un ser humano con el contexto social.</b>
+          p.mb-0 Etimológicamente hablando, <b>la muerte viene de la raíz latina <span class='cac'><em>mors - mortis</em></span> que significa fin o ausencia de vida.</b>  La muerte entonces <b><span class="cp">es la finalización de todas las funciones vitales del organismo como la circulación, la respiración, el sistema nervioso central y lo cognitivo,</span></b> es decir, que un fallecimiento de un cuerpo humano es un proceso que implica cambios químicos y físicos involucrados en el fin de una vida orgánica. <b>La muerte es la interrupción definitiva de las funciones vitales y la relación de un ser humano con el contexto social.</b>
       .col-lg-5.order-first.order-lg-last
         figure
           img(src='@/assets/curso/tema4/f2.png' alt='La muerte como experiencia').mb-4
@@ -64,7 +64,7 @@
           div(numero="2" titulo="Necrobiosis")
             p Ocurre muerte celular sin un ambiente controlado, por lo general es cuando son producidas por agentes externos al cuerpo como la hipotermia, traumatismos, isquemia, bacterias o microorganismos que afecten las funciones normales de una zona determinada, en este caso sí ocurre inflamación y dolor que se extiende a los tejidos cercanos.
           div(numero="3" titulo="Necrosis")
-            p Ocurre muerte celular debido a patologías existentes. Ellas son lesiones tipo úlceras en los que ocurre la muerte del tejido o de la extremidad, su presencia en el cuerpo ocurre por falta de irrigación sanguínea y presencia microbiana. Se le conoce también como gangrena y es común que se de en pacientes diabéticos.
+            p Ocurre muerte celular debido a patologías existentes. Ellas son lesiones tipo úlceras en los que ocurre la muerte del tejido o de la extremidad, su presencia en el cuerpo ocurre por falta de irrigación sanguínea y presencia microbiana. Se le conoce también como gangrena y es común que se dé en pacientes diabéticos.
           div(numero="4" titulo="Síncope")
             p Es la pérdida de conciencia transitoria, llamado comúnmente como desmayo, que puede durar desde segundos hasta un minuto. Se producen por arritmias o enfermedades del corazón; pero también pueden aparecer por aspectos como calor, olor, cansancio, etc. Cuando llegan a ser graves se tienden a hacer maniobras de resurrección, aplicación de medicamentos o corriente eléctrica para dicho fin.
           div(numero="5" titulo="Asfixia")
@@ -80,7 +80,7 @@
           div(numero="8" titulo="Muerte biológica o muerte somática")
             p Es el cese total y definitivo de las funciones principales del cuerpo y del sistema cardiorespiratorio. En este momento los demás sistemas y tejidos del cuerpo comienzan a colapsar.
           div(numero="9" titulo="Muerte cerebral")
-            p El cerebro está dividido en dos partes: corteza y tallo cerebrales. La muerte cerebral ocurre cuando hay un daño en el tallo cerebral. Esta parte es la encargada de controlar las funciones principales del cuerpo y la conciencia. El fallo en el tallo cerebral detiene las funciones de los pulmones y del corazón. La muerte cerebral puede ser causada por traumatismos como accidentes, impactos de bala, trombosis, intoxicación, entre otras.
+            p El cerebro está dividido en dos partes: corteza y tallo cerebral. La muerte cerebral ocurre cuando hay un daño en el tallo cerebral. Esta parte es la encargada de controlar las funciones principales del cuerpo y la conciencia. El fallo en el tallo cerebral detiene las funciones de los pulmones y del corazón. La muerte cerebral puede ser causada por traumatismos como accidentes, impactos de bala, trombosis, intoxicación, entre otras.
           div(numero="10" titulo="Coma")
             p Esta muerte surge cuando la corteza cerebral se altera o se daña. En este estado la persona pierde la conciencia que puede durar minutos, años y en los casos más graves  la muerte.
             p En términos generales, una persona en coma puede percibir estímulos a los cuales el cuerpo puede dar respuesta y este se puede medir con el uso de la “escala de Glasgow” en la que se mide el coma en un rango de 3 a 15, siendo el 3 el indicador de un coma profundo y 15 indica casi consciente. En algunas ocasiones se puede inducir al coma mediante sedantes, pero es controlado y con propósitos médicos específicos.
@@ -127,12 +127,12 @@
           b  cada cultura tiene sus propias creencias y rituales que influencian la expresión del duelo.
           b-none  Al realizar estas prácticas se aporta estabilidad y seguridad a los deudos. Pero, entonces
           b(style="color: #D93328;")  ¿qué es una creencia?
-          b  La creencia es una verdad subjetiva, una convicción, algo que el sujeto considera cierto. Patricio, (2017).
+          b  La creencia es una verdad subjetiva, una convicción, algo que el sujeto considera cierto. Patricio, (2017). 
           b-none Y en cada cultura estas creencias describen el funcionamiento del mundo y el papel de los seres humanos dentro de ese mundo, por ello cada cultura aborda la muerte con un significado diferente, normalmente este creer y pensar está dictado por la creencia religiosa de la sociedad en la que se vive y así ayuda a las personas a comprender la muerte y afrontarla, en algunas culturas las personas creen que el espíritu del fallecido tiene influencia directa sobre los familiares vivos.
           b(style="color: #008F85;")  En otras creen que hay vida después de la muerte y su ser amado los está cuidando y como en el caso del budismo consideran la muerte como una liberación que permite evolucionar a un ser mejor.
 
 
-    p.mb-4 A continuación, encontrarás diferentes definiciones sobre
+    p.mb-4 A continuación, encontrará diferentes definiciones sobre
       b  ¿qué es un ritual?
 
     .row.justify-content-center.mb-5
@@ -171,7 +171,7 @@
 
     p.mb-5 Lo que queda claro es que, en
       b(style="color: #D93328;")  cada cultura,
-      b  la muerte se asocia con diferentes ritos y costumbres con el fin de ayudar a los deudos en el proceso del duelo,
+      b  la muerte se asocia con diferentes ritos y costumbres con el fin de ayudar a los deudos en el proceso del duelo, 
       b-none ofreciendo a estas diferentes formas de procesar y expresar su dolor porque la muerte puede generar un sentido de caos y confusión.
       b(style="color: #008F85;")  En sus generalidades los rituales y costumbres ayudan a brindar un sentido de normalidad y rutina y abordan lo siguiente:
 
@@ -185,7 +185,7 @@
           li
             .lista-ol--cuadro__vineta
               span #[strong 2]
-            p.mb-0 Tratamiento y disposición del cuerpo del fallecido (incluye cómo se limpia, quién lo manipula y vestimenta del cuerpo y si se lo crema o entierra)
+            p.mb-0 Tratamiento y disposición del cuerpo del fallecido (incluye cómo se limpia, quién lo manipula y vestimenta del cuerpo y si se lo crema o entierra).
           li
             .lista-ol--cuadro__vineta
               span #[strong 3]
@@ -199,8 +199,8 @@
           img.mx-auto(src='@/assets/curso/tema4/img9.svg', alt='Dritos y costumbres', style="width: 396px")
 
 
-      p.mb-5 Algunos ejemplos de
-        b ritos funerarios religiosos
+      p.mb-5 Algunos ejemplos de 
+        b ritos funerarios religiosos 
         b-none son:
 
       AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -213,10 +213,10 @@
 
               .col-md-8
                 p.mb-4
-                  b Creencia:
+                  b Creencia: 
                   b-none creen que la vida es eterna y para ello se preparan con tranquilidad, actitud positiva y felicidad espiritual.
                 p.mb-4
-                  b Ritual:
+                  b Ritual: 
                   b-none el monje designa una fecha para la ceremonia de <em>Gnan Sop</em>.
                 .cajon.color-secundario.p-4
                   p.mb-0 El cuerpo es preservado con el fin de garantizar que esté en su casa por 7 días antes de la cremación, en cada noche, alrededor de las 7 p.m. los monjes visitan el cuerpo para ofrecer oraciones. Al séptimo día se realiza la ceremonia en las horas de la tarde en un templo y para ello el cuerpo podrá ser trasladado en auto.
@@ -236,11 +236,11 @@
 
               .col-md-8
                 p.mb-4
-                  b Creencia:
+                  b Creencia: 
                   b-none  la religión católica dicta que la muerte es un viaje que emprende el alma del fallecido hacia el cielo, si llevó una vida libre de pecado; al purgatorio si cometió algunos pecados que no fuesen graves y al infierno si llevó una vida por fuera de los mandatos de la Ley de Dios.
 
                 p.mb-4
-                  b Ritual:
+                  b Ritual: 
                   b-none es llevado normalmente a la funeraria donde se encargan de realizar el proceso de embalsamamiento, vestirlo con sus mejores ropas y se acostumbra a poner entre las manos un rosario. El cuerpo preservado se pone en el ataúd y es llevado al salón de velación o a la casa de la familia, para realizar la velación que consiste en expresar las condolencias a la familia más cercana, en algunos sitios puede durar desde un par de horas hasta 7 días según la voluntad de la familia. La cremación está permitida.
 
             .row.justify-content-center.mb-4
@@ -281,10 +281,10 @@
 
               .col-md-8
                 p.mb-4
-                  b Creencia:
+                  b Creencia: 
                   b-none el hinduismo cree en la reencarnación, no necesariamente en un cuerpo humano.
                 p.mb-4
-                  b Ritual:
+                  b Ritual: 
                   b-none  luego del fallecimiento se procede a cerrar los ojos, la boca y se enderezan los brazos. Posteriormente se pone una lámpara a base de aceite cerca del cuerpo y se deja encendida por tres días consecutivos, y tratar de evitar el contacto con el fallecido lo más posible, se baña y se viste de color blanco.  Si la mujer es casada se vestirá con un vestido de novia rojo, si es soltera será una vestimenta amarilla o roja y si es viuda, será de color blanco o pálido.
 
             .row.justify-content-center.mb-5
@@ -326,10 +326,10 @@
 
               .col-md-8
                 p.mb-4
-                  b Creencia:
+                  b Creencia: 
                   b-none la muerte es producto de la decisión de <em>Allah</em> y es el comienzo de un nuevo mundo. No se permite la cremación y se prefiere morir en compañía de los familiares.
                 p.mb-4
-                  b Ritual:
+                  b Ritual: 
                   b-none  al confirmar la muerte de la persona se cierran los ojos del fallecido, luego se baña el cuerpo por un miembro de la familia del mismo sexo e idealmente dentro de las primeras horas posteriores a la defunción. Posteriormente se envuelve el cuerpo en una tela limpia sin adornos, <em>Kafan</em>.
 
             .row.justify-content-center.mb-4
@@ -365,10 +365,10 @@
 
               .col-md-8
                 p.mb-4
-                  b Creencia:
+                  b Creencia: 
                   b-none la muerte se considera un proceso natural de la vida dentro del plan divino. Quienes vivieron una vida haciendo el bien serán resucitados. El fallecido será juzgado por sus acciones y méritos no por su riqueza material.
                 p.mb-4
-                  b Ritual:
+                  b Ritual: 
                   b-none  al momento de la muerte de una persona, se le deben cerrar los ojos y cubrir su cuerpo con sábanas, ponerlo en el piso rodeado de velas encendidas.
                 ul.lista-ul.ps-lg-4
                   li

@@ -1,1 +1,1 @@
-module.exports = 'Principios y normas de bioseguridad.'
+module.exports = 'Introducción a la tanatoestética.'

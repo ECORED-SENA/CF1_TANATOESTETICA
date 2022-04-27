@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91.738" height="91.738" viewBox="0 0 91.738 91.738">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.076" cy="0.019" r="1.465" gradientTransform="translate(0.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6f6f7"/>
+      <stop offset="0.477" stop-color="#f9f9fa"/>
+      <stop offset="0.715" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_131769" data-name="Grupo 131769" transform="translate(7308.19 3507)">
+    <g id="Grupo_131763" data-name="Grupo 131763" transform="translate(-7308.19 -3507)">
+      <g id="Grupo_18421" data-name="Grupo 18421">
+        <g id="Grupo_18420" data-name="Grupo 18420">
+          <g id="Grupo_18419" data-name="Grupo 18419">
+            <path id="Trazado_40936" data-name="Trazado 40936" d="M286.361,2191.589a45.869,45.869,0,1,1-45.868-45.867A45.868,45.868,0,0,1,286.361,2191.589Z" transform="translate(-194.623 -2145.721)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_40937" data-name="Trazado 40937" d="M286.043,2191.242a45.868,45.868,0,1,0-45.868,45.87A45.688,45.688,0,0,0,286.043,2191.242Z" transform="translate(-194.305 -2145.375)" fill="url(#radial-gradient)"/>
+      <path id="Trazado_40938" data-name="Trazado 40938" d="M272.418,2188.491a35.012,35.012,0,1,0-35.012,35.011A34.88,34.88,0,0,0,272.418,2188.491Z" transform="translate(-191.398 -2142.47)" fill="none" stroke="#1d272d" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Grupo_18422" data-name="Grupo 18422" transform="translate(8.126 25.752)">
+        <path id="Trazado_40939" data-name="Trazado 40939" d="M279.519,2164.488a45.875,45.875,0,0,1-78.974,45.679,45.729,45.729,0,0,0,78.974-45.679Z" transform="translate(-200.545 -2164.488)" fill="#eceef0"/>
+      </g>
+    </g>
+    <path id="Trazado_168594" data-name="Trazado 168594" d="M6.031-8.891H8.344v4.063H6.031V0H.766V-4.828h-8.8l-.312-3.219L.766-22.7v-.047H6.031Zm-9.359,0H.766v-7l-.328.531Z" transform="translate(-7263.282 -3450)" fill="#12263f"/>
+  </g>
+</svg>

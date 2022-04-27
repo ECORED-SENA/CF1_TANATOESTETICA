@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91.738" height="91.738" viewBox="0 0 91.738 91.738">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.076" cy="0.019" r="1.465" gradientTransform="translate(0.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6f6f7"/>
+      <stop offset="0.477" stop-color="#f9f9fa"/>
+      <stop offset="0.715" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_131768" data-name="Grupo 131768" transform="translate(7547.821 3507)">
+    <g id="Grupo_131764" data-name="Grupo 131764" transform="translate(-7547.821 -3507)">
+      <g id="Grupo_18421" data-name="Grupo 18421">
+        <g id="Grupo_18420" data-name="Grupo 18420">
+          <g id="Grupo_18419" data-name="Grupo 18419">
+            <path id="Trazado_40936" data-name="Trazado 40936" d="M286.361,2191.589a45.869,45.869,0,1,1-45.868-45.867A45.868,45.868,0,0,1,286.361,2191.589Z" transform="translate(-194.623 -2145.721)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_40937" data-name="Trazado 40937" d="M286.043,2191.242a45.868,45.868,0,1,0-45.868,45.87A45.688,45.688,0,0,0,286.043,2191.242Z" transform="translate(-194.305 -2145.375)" fill="url(#radial-gradient)"/>
+      <path id="Trazado_40938" data-name="Trazado 40938" d="M272.418,2188.491a35.012,35.012,0,1,0-35.012,35.011A34.88,34.88,0,0,0,272.418,2188.491Z" transform="translate(-191.398 -2142.47)" fill="none" stroke="#1d272d" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Grupo_18422" data-name="Grupo 18422" transform="translate(8.126 25.752)">
+        <path id="Trazado_40939" data-name="Trazado 40939" d="M279.519,2164.488a45.875,45.875,0,0,1-78.974,45.679,45.729,45.729,0,0,0,78.974-45.679Z" transform="translate(-200.545 -2164.488)" fill="#eceef0"/>
+      </g>
+    </g>
+    <path id="Trazado_168591" data-name="Trazado 168591" d="M-3.062-13.578H-.578q2.953,0,2.953-2.891a2.5,2.5,0,0,0-.7-1.836,2.666,2.666,0,0,0-1.984-.711,2.854,2.854,0,0,0-1.82.609,1.859,1.859,0,0,0-.773,1.516H-8.172a5.39,5.39,0,0,1,1-3.2,6.6,6.6,0,0,1,2.773-2.2,9.482,9.482,0,0,1,3.9-.789,9.317,9.317,0,0,1,5.969,1.734,5.766,5.766,0,0,1,2.172,4.766,4.805,4.805,0,0,1-.9,2.773,6.4,6.4,0,0,1-2.617,2.117A6.116,6.116,0,0,1,6.969-9.7,5.246,5.246,0,0,1,8-6.391,5.87,5.87,0,0,1,5.656-1.516,9.729,9.729,0,0,1-.5.313,10.089,10.089,0,0,1-4.648-.539,6.5,6.5,0,0,1-7.547-2.9a6.134,6.134,0,0,1-.984-3.43h5.3a2.371,2.371,0,0,0,.844,1.813A2.979,2.979,0,0,0-.312-3.75a3.12,3.12,0,0,0,2.219-.773A2.585,2.585,0,0,0,2.734-6.5a3.022,3.022,0,0,0-.859-2.437A3.592,3.592,0,0,0-.5-9.656H-3.062Z" transform="translate(-7502.913 -3450)" fill="#12263f"/>
+  </g>
+</svg>
